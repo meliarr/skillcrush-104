@@ -1,0 +1,38 @@
+.peach-advice {
+  color: white;
+  font-family: 'Tahoma', sans-serif;
+  margin: 20px;
+  padding:20px 40px;
+  background: rgb(49, 142, 173);
+}
+
+.peach-advice a {
+  color:white;
+}
+
+.peach-advice h1 {
+	font-size: 30px;
+}
+
+.peach-advice h4 {
+	font-size: 20px;
+	color: rgb(49, 142, 173);
+  text-transform: uppercase;
+}
+
+.peach-advice p {
+  margin-bottom:40px;
+  font-style:italic;
+  font-family: 'Georgia', sans-serif;
+  color: black;
+}
+
+.peach-advice section {
+	background: white;
+	padding: 10px;
+}
+
+.peach-advice footer p{
+	color: white;
+	text-align: right;
+}
